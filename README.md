@@ -1,16 +1,16 @@
-### Hi there 👋
+## Marco - Andrea Buchmann @ GitHub
 
-<!--
-**MarcoAndreaBuchmann/MarcoAndreaBuchmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi,
 
-Here are some ideas to get you started:
+I'm Marco - Andrea, I'm passionate about machine learning & artificial intelligence, and its application to different fields (e.g. physics, finance, and medicine). I usually use python (keras, tensorflow, pandas, and numpy), and C++ for heavy lifting, on Linux & Unix systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## How to reach me
+
+- LinkedIn: [https://www.linkedin.com/in/MarcoAndreaBuchmann](https://www.linkedin.com/in/MarcoAndreaBuchmann)
+- Email: see below
+
+![Image](https://raw.githubusercontent.com/MarcoAndreaBuchmann/MarcoAndreaBuchmann/master/image.png)
+
+
+
